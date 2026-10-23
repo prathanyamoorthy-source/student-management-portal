@@ -15,9 +15,9 @@
 | PB7 | Apply common CSS styling | High | Completed |
 | PB8 | Test all pages and navigation | High | Completed |
 | PB9 | Publish website using GitHub Pages | High | Completed |
-| PB10 | Document the project in README | High | In Progress |
-| PB11 | Prepare Sprint-1 plan | High | In Progress |
-| PB12 | Maintain feature branches and commits | High | In Progress |
+| PB10 | Document the project in README | High | Completed |
+| PB11 | Prepare Sprint-1 plan | High | Completed |
+| PB12 | Maintain feature branches and commits | High | Completed |
 
 ## Product Goal
 Create a simple, user-friendly Student Management Portal
