@@ -32,6 +32,7 @@ developed using HTML5 and CSS3.
 The project is planned using a product backlog and
 a Sprint-1 plan.
 
+
 ## Student Details
 Name: Prathanya.M
 Register Number: 111526203077
@@ -41,3 +42,5 @@ Department: Information technology
 This is a static website. Forms do not store data
 or send messages to a server.
 
+## The link of the website
+https://prathanyamoorthy-source.github.io/student-management-portal/
